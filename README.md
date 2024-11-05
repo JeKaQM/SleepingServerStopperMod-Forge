@@ -1,7 +1,11 @@
+# Disclaimer
+- This is a fork of original, I just needed to create a version compatible with my own launcher
+
 # Sleeping Server Stopper
 This mod is a port of the [Sleeping Server Stopper Spigot plugin](https://github.com/vincss/mcEmptyServerStopper) for:
 - Forge 1.20
 - Forge 1.19
+
 
 This is meant to be used with the mod [SleepingServerStarter](https://github.com/vincss/mcsleepingserverstarter) by [vincss](https://github.com/vincss).
 
